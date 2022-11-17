@@ -42,5 +42,5 @@ def data_scraping() :
         print("pretul nu a scazut")
 
 
-sendemail(sender, "plm", subject, to_addr_list, cc_addr_list)
+sendemail(sender, "ppp", subject, to_addr_list, cc_addr_list)
 data_scraping()
